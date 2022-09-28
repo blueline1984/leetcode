@@ -1,3 +1,7 @@
+/**
+1차 풀이
+*/
+
 const romanToInt = function(s) {
   const romanNumber = {
     I: 1,
