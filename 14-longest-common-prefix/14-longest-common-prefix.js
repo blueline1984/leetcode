@@ -2,6 +2,7 @@
  * @param {string[]} strs
  * @return {string}
  */
+
 const longestCommonPrefix = function(strs) {
   if (strs.length === 0) return "";
   
